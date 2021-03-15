@@ -9,7 +9,7 @@ An app that runs through the browser and generates a password randomly.
 * JavaScript
 
 ## Website
-
+https://heatherjswift.github.io/Password-Generator/
 
 ## Screenshot
 ![password-generator-screenshot](assets/images/Password-generator-screenshot.png)
