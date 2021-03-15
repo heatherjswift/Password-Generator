@@ -12,4 +12,4 @@ An app that runs through the browser and generates a password randomly.
 
 
 ## Screenshot
-![password-generator-screenshot]
+![password-generator-screenshot](assets/images/Password-generator-screenshot.png)
